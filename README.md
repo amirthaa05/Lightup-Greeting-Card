@@ -32,7 +32,8 @@ To design and IMG20260919102012fabricate a creative handmade LED greeting card t
 * The greeting card combines paper and basic electronic components.  
 * The LED provides an attractive lighting effect inside the flower.  
 * The battery supplies electrical energy to the LED.  
-* &nbsp;The project develops creative ,paper craft skills and basic electronic components knowledge.&nbsp;
+&nbsp;
+* The project develops creative ,paper craft skills and basic electronic components knowledge.&nbsp;
 
 ![result](IMG20260919102012.jpg)
 ![result](IMG-20260919-WA0002.jpg)
